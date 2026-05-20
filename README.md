@@ -1,4 +1,3 @@
-````markdown
 # 🧠 Face Recognition TDR
 
 > Sistema de reconeixement facial en temps real amb intel·ligència artificial, visió per computador i deep learning.
